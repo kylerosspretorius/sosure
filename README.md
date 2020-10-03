@@ -13,3 +13,7 @@
     * All tables and records exist in this file, just run.
     
 * Once database setup, ensure your **config.php** has been edited to your DB access.
+
+### NOTES ###
+
+* This was tested on Mozilla Firefox
